@@ -38,8 +38,16 @@ Young, A., Röst, H. & Wang, B.
 Young, Adamo, Fei Wang, David Wishart, Bo Wang, Hannes Röst, and Russ Greiner.   
 [arXiv:2404.02360 (2024)](https://arxiv.org/abs/2404.02360)  
 
-
+* **Deep Learning-Enabled MS/MS Spectrum Prediction Facilitates Automated Identification Of Novel Psychoactive Substances** [2023]  
+Wang, Fei, Daniel Pasin, Michael A. Skinnider, Jaanus Liigand, Jan-Niklas Kleis, David Brown, Eponine Oler et al.   
+[Analytical Chemistry 95.50 (2023))](https://doi.org/10.1021/acs.analchem.3c02413) | [data]( https://nps-ms.ca)    
  . . 
+* **MIST-CF: Chemical Formula Inference from Tandem Mass Spectra** [2023]  
+Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.   
+[J. Chem. Inf. Model. (2023))](https://doi.org/10.1021/acs.jcim.3c01082) | [code](https://github.com/samgoldman97/mist-cf)    
+
+
+
 
 
 ### NMR Spectra.AI
