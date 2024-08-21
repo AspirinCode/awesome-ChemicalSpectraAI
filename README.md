@@ -7,6 +7,10 @@
 
 
 
+
+
+
+
 ### IR Spectra.AI
 
 
@@ -22,10 +26,16 @@
 
 
 
+* **Tandem mass spectrum prediction for small molecules using graph transformers** [2024]  
+Young, A., Röst, H. & Wang, B.   
+[Nat Mach Intell 6, 404–416 (2024)](https://doi.org/10.1038/s42256-024-00816-8) | [code](https://github.com/Roestlab/massformer)  
+
+* **FraGNNet: A Deep Probabilistic Model for Mass Spectrum Prediction** [2024]  
+Young, Adamo, Fei Wang, David Wishart, Bo Wang, Hannes Röst, and Russ Greiner.   
+[arXiv:2404.02360 (2024)](https://arxiv.org/abs/2404.02360)  
 
 
-
-
+ . . 
 
 
 ### NMR Spectra.AI
