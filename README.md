@@ -1,3 +1,6 @@
+[![License: GPL](https://img.shields.io/badge/License-GPL-yellow)](https://github.com/AspirinCode/awesome-ChemicalSpectraAI)
+
+
 # AI for Chemical Spectra
 
 
@@ -6,7 +9,7 @@
 ![AI for Chemical Spectra](https://github.com/AspirinCode/awesome-ChemicalSpectraAI/blob/main/figure/ai4chemical_spectra.png)
 
 
-
+**Updating ...**  
 
 
 
