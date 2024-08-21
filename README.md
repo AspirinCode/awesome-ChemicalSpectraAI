@@ -17,19 +17,6 @@
 
 
 
-* **An overview about neural networks potentials in molecular dynamics simulation** [2024]   
- Martin‐Barrios, Raidel, Edisel Navas‐Conyedo, Xuyi Zhang, Yunwei Chen, and Jorge Gulín‐González.   
-  [International Journal of Quantum Chemistry 124.11 (2024)](https://doi.org/10.1002/qua.27389)  
-
-* **Artificial Intelligence Enhanced Molecular Simulations** [2023]   
- Zhang, Jun, Dechin Chen, Yijie Xia, Yu-Peng Huang, Xiaohan Lin, Xu Han, Ningxi Ni et al.   
-  [J. Chem. Theory Comput. (2023)](https://doi.org/10.1021/acs.jctc.3c00214)  
-
-* **Machine Learning Generation of Dynamic Protein Conformational Ensembles** [2023]   
- Zheng, Li-E., Shrishti Barethiya, Erik Nordquist, and Jianhan Chen.   
-  [Molecules 28.10 (2023)](https://doi.org/10.3390/molecules28104047)  
-
-
 
 
 ## Dataset and SpectraPackage
