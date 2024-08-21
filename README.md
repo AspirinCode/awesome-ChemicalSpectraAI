@@ -15,7 +15,9 @@
 
 
 
-
+* **Expert System for Fourier Transform Infrared Spectra Recognition Based on a Convolutional Neural Network With Multiclass Classification** [2024]  
+Koshelev, Daniil S.   
+[Applied Spectroscopy 78.4 (2024)](https://doi.org/10.1177/00037028241226732)  
 
 
 
