@@ -62,9 +62,13 @@ Tian, ZiJing, Yan Dai, Feng Hu, ZiHao Shen, HongLing Xu, HongWen Zhang, JinHang 
 Devata, Sriram, Bhuvanesh Sridharan, Sarvesh Mehta, Yashaswi Pathak, Siddhartha Laghuvarapu, Girish Varma, and Deva Priyakumar.   
 [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00008K) | [code](https://github.com/devalab/DeepSPInN)  
 
+* **Learning the Language of NMR: Structure Elucidation from NMR spectra using Transformer Models** [2023]  
+Alberts, Marvin, Federico Zipoli, and Alain C. Vaucher.   
+[chemrxiv-2023-8wxcz (2023)](https://doi.org/10.26434/chemrxiv-2023-8wxcz) | [code](https://github.com/rxn4chemistry/nmr-to-structure)  
 
-
-
+* **Scalable graph neural network for NMR chemical shift prediction** [2022]  
+Han, Jongmin, Hyungu Kang, Seokho Kang, Youngchun Kwon, Dongseon Lee, and Youn-Suk Choi.   
+[Physical Chemistry Chemical Physics 24.43 (2022)](https://doi.org/10.1039/D2CP04542G) | [code](https://github.com/hjm9702/nmr_sgnn)  
 
 
 
