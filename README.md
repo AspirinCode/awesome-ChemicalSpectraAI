@@ -1,10 +1,9 @@
 # AI for Chemical Spectra
 
 
-
 **Artificial intelligence** and **generative deep learning** are used to unlock **infrared spectroscopy(IR), mass spectroscopy spectroscopy, NMR spectroscopy**, and chemical spectroscopy.
 
-
+![AI for Chemical Spectra](https://github.com/AspirinCode/awesome-ChemicalSpectraAI/blob/main/figure/ai4chemical_spectra.png)
 
 
 
