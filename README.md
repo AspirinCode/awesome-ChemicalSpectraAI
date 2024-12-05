@@ -99,6 +99,29 @@ Han, Jongmin, Hyungu Kang, Seokho Kang, Youngchun Kwon, Dongseon Lee, and Youn-S
 
 
 
+### MultiSpectra.AI
+
+
+
+* **Enhancing Molecular Structure Elucidation: MultiModalTransformer for both simulated and experimental spectra** [2024]  
+Priessner M, Lewis R, Janet JP, Lemurell I, Johansson M, Goodman J, et al.   
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-zmmnw) | [code](https://github.com/knlr326_azu/MultiModalTransformer)| [data](https://zenodo.org/uploads/13221541)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
