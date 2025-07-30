@@ -54,6 +54,13 @@ Koshelev, Daniil S.
 
 
 
+
+
+
+* **Enhancing tandem mass spectrometry-based metabolite annotation with online chemical labeling** [2025]  
+Vitale, G.A., Xia, SN., Dührkop, K. et al.   
+[Nat Commun 16, 6911 (2025)](https://doi.org/10.1038/s41467-025-61240-z) | [code](https://github.com/Wang-Bioinformatics-Lab/Chemical_Metabolomics_with_functional_groups/tree/master)  
+
 * **Tandem mass spectrum prediction for small molecules using graph transformers** [2024]  
 Young, A., Röst, H. & Wang, B.   
 [Nat Mach Intell 6, 404–416 (2024)](https://doi.org/10.1038/s42256-024-00816-8) | [code](https://github.com/Roestlab/massformer)  
