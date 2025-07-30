@@ -78,6 +78,12 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
+
+
+* **CASCADE-2.0: Real Time Prediction of 13C-NMR Shifts with sub-ppm Accuracy** [2025]  
+Bhadauria A, Feng Z, Popescu M, Paton R.   
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-r8m9m) | [code](https://github.com/asbhd/CASCADE-2.0)  
+
 * **Enhancing Chemical Reaction Monitoring with a Deep Learning Model for NMR Spectra Image Matching to Target Compounds** [2024]  
 Tian, ZiJing, Yan Dai, Feng Hu, ZiHao Shen, HongLing Xu, HongWen Zhang, JinHang Xu, YuTing Hu, YanYan Diao, and HongLin Li.   
 [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00522) | [code](https://github.com/72J72J/MatCS)  
