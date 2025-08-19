@@ -55,7 +55,9 @@ Koshelev, Daniil S.
 
 
 
-
+* **AnnoMe: A python package for MS/MS spectra classification** [2025]  
+bueschl christoph, Rypar T, Molcanova L, Markus J, Seidl B, Doppler M, et al.   
+[ChemRxiv. (2025)](https://doi.org/10.1038/s42256-024-00816-8) | [code](https://github.com/astral-sh/uv)  
 
 * **Enhancing tandem mass spectrometry-based metabolite annotation with online chemical labeling** [2025]  
 Vitale, G.A., Xia, SN., Dührkop, K. et al.   
