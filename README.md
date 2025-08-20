@@ -53,7 +53,9 @@ Koshelev, Daniil S.
 ### Mass Spectra.AI
 
 
-
+* **mineMS2: annotation of spectral libraries with exact fragmentation patterns** [2025]  
+Delabrière, A., Gianfrotta, C., Dechaumet, S. et al.   
+[J Cheminform 17, 111 (2025)](https://doi.org/10.1186/s13321-025-01051-y) | [code](https://github.com/odisce/mineMS2)  
 
 * **AnnoMe: A python package for MS/MS spectra classification** [2025]  
 bueschl christoph, Rypar T, Molcanova L, Markus J, Seidl B, Doppler M, et al.   
