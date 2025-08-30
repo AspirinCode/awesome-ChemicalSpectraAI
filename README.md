@@ -91,6 +91,11 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
+
+* **Zero-Field NMR and Millitesla-SLIC Spectra for >200 Molecules from Density Functional Theory and Spin Dynamics** [2025]  
+Mandzhieva, Iuliia, Franziska Theiss, Xingtao He, Adam Ortmeier, Anuja Koirala, Stephen J. McBride, Stephen J. DeVience, Matthew S. Rosen, Volker Blum, and Thomas Theis.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00111) | [code](https://github.com/IlyaKuprov/Spinach)  
+
 * **CASCADE-2.0: Real Time Prediction of 13C-NMR Shifts with sub-ppm Accuracy** [2025]  
 Bhadauria A, Feng Z, Popescu M, Paton R.   
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-r8m9m) | [code](https://github.com/asbhd/CASCADE-2.0)  
