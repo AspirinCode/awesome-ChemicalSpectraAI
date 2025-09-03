@@ -35,6 +35,14 @@ Alberts, Marvin, Oliver Schilter, Federico Zipoli, Nina Hartrampf, and Teodoro L
 
 
 
+* **Defeating the Matrix** [2019]  
+Ilya Kuprov.  
+[J. Magn. Reson. (2019)](https://doi.org/10.1016/j.jmr.2019.07.031) | [code](https://github.com/IlyaKuprov/Spinach)  
+
+
+
+
+
 
 
 ### IR Spectra.AI
