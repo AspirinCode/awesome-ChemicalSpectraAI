@@ -98,7 +98,9 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
-
+* **NMRMind: A Transformer-Based Model Enabling the Elucidation from Multidimensional NMR to Structures** [2025]  
+Xi Xue, Hanyu Sun, Jingying Sun, Luc Patiny, Xiangying Liu, Kai Chen, Jingjie Yan, Liangning Li, Xue Liu, Shu Xu, Dongming Zhang, Yafeng Deng, Yingda Zang, Yaling Gong, Jie Ma, and Xiaojian Wang.  
+[Anal. Chem. (2025)](https://doi.org/10.1021/acs.analchem.5c03783) | [code](https://github.com/WJmodels/NMRMind)  
 
 * **Zero-Field NMR and Millitesla-SLIC Spectra for >200 Molecules from Density Functional Theory and Spin Dynamics** [2025]  
 Mandzhieva, Iuliia, Franziska Theiss, Xingtao He, Adam Ortmeier, Anuja Koirala, Stephen J. McBride, Stephen J. DeVience, Matthew S. Rosen, Volker Blum, and Thomas Theis.  
