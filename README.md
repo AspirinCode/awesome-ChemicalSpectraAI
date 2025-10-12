@@ -48,7 +48,9 @@ Ilya Kuprov.
 ### IR Spectra.AI
 
 
-
+* **Towards automatically verifying chemical structures: the powerful combination of 1H NMR and IR spectroscopy** [2025]  
+Rowlands, J. Benji, Lina Jonsson, Jonathan Goodman, Peter Howe, Werngard Czechtizky, Tomas Leek, and Richard James Lewis.   
+[Chem. Sci. (2025)](https://doi.org/10.1039/D5SC06866E) | [data](https://doi.org/10.17863/CAM.110235)  
 
 * **Expert System for Fourier Transform Infrared Spectra Recognition Based on a Convolutional Neural Network With Multiclass Classification** [2024]  
 Koshelev, Daniil S.   
@@ -96,7 +98,9 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 ### NMR Spectra.AI
 
 
-
+* **Towards automatically verifying chemical structures: the powerful combination of 1H NMR and IR spectroscopy** [2025]  
+Rowlands, J. Benji, Lina Jonsson, Jonathan Goodman, Peter Howe, Werngard Czechtizky, Tomas Leek, and Richard James Lewis.   
+[Chem. Sci. (2025)](https://doi.org/10.1039/D5SC06866E) | [data](https://doi.org/10.17863/CAM.110235)  
 
 * **NMRMind: A Transformer-Based Model Enabling the Elucidation from Multidimensional NMR to Structures** [2025]  
 Xi Xue, Hanyu Sun, Jingying Sun, Luc Patiny, Xiangying Liu, Kai Chen, Jingjie Yan, Liangning Li, Xue Liu, Shu Xu, Dongming Zhang, Yafeng Deng, Yingda Zang, Yaling Gong, Jie Ma, and Xiaojian Wang.  
