@@ -95,8 +95,14 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
+
 ### NMR Spectra.AI
 
+
+
+* **Atomic Diffusion Models for Small Molecule Structure Elucidation from NMR Spectra** [2025]  
+Xiong, Z., Zhang, Y., Alauddin, F., Cheng, C. X., An, J. S., Seyedsayamdost, M. R., & Zhong, E. D.  
+[NeurIPS 2025 (2025)](https://neurips.cc/virtual/2025/loc/san-diego/poster/117934)  
 
 * **Towards automatically verifying chemical structures: the powerful combination of 1H NMR and IR spectroscopy** [2025]  
 Rowlands, J. Benji, Lina Jonsson, Jonathan Goodman, Peter Howe, Werngard Czechtizky, Tomas Leek, and Richard James Lewis.   
