@@ -150,6 +150,11 @@ Han, Jongmin, Hyungu Kang, Seokho Kang, Youngchun Kwon, Dongseon Lee, and Youn-S
 
 
 
+
+* **Advancing Structure Elucidation with a Flexible Multi-Spectral AI Model** [2025]  
+Priessner, Martin, Richard J. Lewis, Isak Lemurell, Magnus J. Johansson, JonathanM Goodman, Jon Paul Janet, and Anna Tomberg.   
+[Angewandte Chemie (2025)](https://doi.org/10.1002/anie.202517611) | [code](https://github.com/mpriessner/MultiModalSpectralTransformer)| [Zenodo](https://zenodo.org/records/17284940)   
+
 * **Enhancing Molecular Structure Elucidation: MultiModalTransformer for both simulated and experimental spectra** [2024]  
 Priessner M, Lewis R, Janet JP, Lemurell I, Johansson M, Goodman J, et al.   
 [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-zmmnw) | [code](https://github.com/knlr326_azu/MultiModalTransformer)| [data](https://zenodo.org/uploads/13221541)   
