@@ -60,6 +60,22 @@ Koshelev, Daniil S.
 
 
 
+
+### Raman Spectra.AI
+
+
+
+
+* **Mol2Raman: a graph neural network model for predicting Raman spectra from SMILES representations** [2025]  
+Sorrentino, Salvatore, Alessandro Gussoni, Francesco Calcagno, Gioele Pasotti, Davide Avagliano, Ivan Rivalta, Marco Garavelli, and Dario Polli.  
+[Digital Discovery (2025)](https://doi.org/10.1039/D5DD00210A) | [data](https://github.com/salvasorrentino/Mol2Raman)  
+
+
+
+
+
+
+
 ### Mass Spectra.AI
 
 
