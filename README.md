@@ -48,6 +48,12 @@ Ilya Kuprov.
 ### IR Spectra.AI
 
 
+
+
+* **NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra** [2025]  
+Federico Ottomano, Yingzhen Li, Alex M. Ganose.   
+[arXiv:2512.19733 (2025)](https://doi.org/10.48550/arXiv.2512.19733) | [code](https://github.com/fedeotto/nmiracle)  
+
 * **Towards automatically verifying chemical structures: the powerful combination of 1H NMR and IR spectroscopy** [2025]  
 Rowlands, J. Benji, Lina Jonsson, Jonathan Goodman, Peter Howe, Werngard Czechtizky, Tomas Leek, and Richard James Lewis.   
 [Chem. Sci. (2025)](https://doi.org/10.1039/D5SC06866E) | [data](https://doi.org/10.17863/CAM.110235)  
@@ -120,6 +126,12 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 ### NMR Spectra.AI
 
 
+
+
+
+* **NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra** [2025]  
+Federico Ottomano, Yingzhen Li, Alex M. Ganose.   
+[arXiv:2512.19733 (2025)](https://doi.org/10.48550/arXiv.2512.19733) | [code](https://github.com/fedeotto/nmiracle)  
 
 * **Atomic Diffusion Models for Small Molecule Structure Elucidation from NMR Spectra** [2025]  
 Xiong, Z., Zhang, Y., Alauddin, F., Cheng, C. X., An, J. S., Seyedsayamdost, M. R., & Zhong, E. D.  
