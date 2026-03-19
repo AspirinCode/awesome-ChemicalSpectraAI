@@ -127,7 +127,9 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
-
+* **NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra** [2026]  
+Haolin Zhan, Zhongfu Huang, Chaojie Xing, Xinyu Chen, Yuqing Huang, and Zhong Chen.  
+[Anal. Chem. (2026)](https://doi.org/10.1021/acs.analchem.5c07201)  
 
 * **NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra** [2025]  
 Federico Ottomano, Yingzhen Li, Alex M. Ganose.   
