@@ -150,7 +150,9 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
-
+* **Deep Learning Assisted Proton Pure Shift NMR Spectroscopy** [2026]  
+Veera Mohana Rao Kakita and D. Flemming Hansen.  
+[J. Am. Chem. Soc.(2026)](https://doi.org/10.1021/jacs.5c22860) | [code](https://github.com/hansenlab-ucl/DNN_PS)  
 
 * **DEEP Phaser: A Deep Learning Tandem Vision Transformer for Fully Automated NMR Phase Correction** [2026]  
 Da-Wei Li, Lei Bruschweiler-Li, Kyungsuh Lee, and Rafael Brüschweiler.  
