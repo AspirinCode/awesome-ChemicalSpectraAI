@@ -72,6 +72,10 @@ Koshelev, Daniil S.
 
 
 
+
+
+
+
 * **Mol2Raman: a graph neural network model for predicting Raman spectra from SMILES representations** [2025]  
 Sorrentino, Salvatore, Alessandro Gussoni, Francesco Calcagno, Gioele Pasotti, Davide Avagliano, Ivan Rivalta, Marco Garavelli, and Dario Polli.  
 [Digital Discovery (2025)](https://doi.org/10.1039/D5DD00210A) | [data](https://github.com/salvasorrentino/Mol2Raman)  
@@ -82,7 +86,18 @@ Sorrentino, Salvatore, Alessandro Gussoni, Francesco Calcagno, Gioele Pasotti, D
 
 
 
+
+
+
 ### Mass Spectra.AI
+
+
+
+
+
+
+
+
 
 
 
@@ -123,9 +138,27 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
+
+
+
+
+
 ### NMR Spectra.AI
 
 
+
+
+
+
+
+
+* **DEEP Phaser: A Deep Learning Tandem Vision Transformer for Fully Automated NMR Phase Correction** [2026]  
+Da-Wei Li, Lei Bruschweiler-Li, Kyungsuh Lee, and Rafael Brüschweiler.  
+[J. Phys. Chem. Lett. (2026)](https://doi.org/10.1021/acs.jpclett.6c00770)  
+
+* **MIM-ML: Combining Molecular Fragmentation and Machine Learning for Accurate Prediction of NMR Chemical Shifts for Large Peptides** [2026]  
+Surya Sekhar Manna, Sruthy K. Chandy, and Krishnan Raghavachari.  
+[J. Phys. Chem. A (2026)](https://doi.org/10.1021/acs.jpca.6c00440)  
 
 * **NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra** [2026]  
 Haolin Zhan, Zhongfu Huang, Chaojie Xing, Xinyu Chen, Yuqing Huang, and Zhong Chen.  
@@ -176,7 +209,17 @@ Han, Jongmin, Hyungu Kang, Seokho Kang, Youngchun Kwon, Dongseon Lee, and Youn-S
 
 
 
+
+
+
+
 ### MultiSpectra.AI
+
+
+
+
+
+
 
 
 
