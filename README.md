@@ -76,6 +76,11 @@ Koshelev, Daniil S.
 
 
 
+
+* **Graph Neural Network in Raman Spectroscopy to Leverage the Performance and Interpretability of the Classification** [2026]  
+Guo, Shuxia, Sandra Baaba Frempong, Markus Salbreiter, Annette Wagenhaus, Petra Rösch, Jürgen Popp, and Thomas Bocklitz.  
+[Chemistry‐Methods (2026)](https://doi.org/10.1002/cmtd.70119)  
+
 * **Mol2Raman: a graph neural network model for predicting Raman spectra from SMILES representations** [2025]  
 Sorrentino, Salvatore, Alessandro Gussoni, Francesco Calcagno, Gioele Pasotti, Davide Avagliano, Ivan Rivalta, Marco Garavelli, and Dario Polli.  
 [Digital Discovery (2025)](https://doi.org/10.1039/D5DD00210A) | [data](https://github.com/salvasorrentino/Mol2Raman)  
@@ -149,6 +154,12 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
+
+
+
+* **Recent Trends in Metabolomics by NMR Spectroscopy** [2026]  
+G.Di Paco, G.Meoni, V.Ghini, et al.  
+[Angewandte Chemie International Edition (2026)](https://doi.org/10.1002/anie.202525689)  
 
 * **Deep Learning Assisted Proton Pure Shift NMR Spectroscopy** [2026]  
 Veera Mohana Rao Kakita and D. Flemming Hansen.  
