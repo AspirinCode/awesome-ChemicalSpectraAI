@@ -50,6 +50,13 @@ Ilya Kuprov.
 
 
 
+
+
+
+* **Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy** [2026]  
+Nitik Bhatia, Ondrej Krejci, Patrick Rinke.  
+[arXiv:2605.22367 (2026)](https://doi.org/10.48550/arXiv.2605.22367) | [code](https://gitlab.com/cest-group/ml4ir-bench)  
+
 * **NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra** [2025]  
 Federico Ottomano, Yingzhen Li, Alex M. Ganose.   
 [arXiv:2512.19733 (2025)](https://doi.org/10.48550/arXiv.2512.19733) | [code](https://github.com/fedeotto/nmiracle)  
