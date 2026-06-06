@@ -162,7 +162,9 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
-
+* **End-to-end molecular structure elucidation from multimodal NMR spectra images using vision transformers** [2026]  
+Chao Han,  Xiaolin Pan, Yingkai Zhang.  
+[Chem. Sci. (2026)](https://doi.org/10.1039/D6SC02352E) | [code](https://github.com/ChaoNyu/NMRViT) | [Zenodo](https://doi.org/10.5281/zenodo.19153901)  
 
 * **Recent Trends in Metabolomics by NMR Spectroscopy** [2026]  
 G.Di Paco, G.Meoni, V.Ghini, et al.  
