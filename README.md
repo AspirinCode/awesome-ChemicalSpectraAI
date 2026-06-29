@@ -111,7 +111,9 @@ Sorrentino, Salvatore, Alessandro Gussoni, Francesco Calcagno, Gioele Pasotti, D
 
 
 
-
+* **Agentic AI for Structural Elucidation and Discovery of Drug Metabolites from Mass Spectrometry Data** [2026]  
+Xianghu Wang, Abubaker Patan, Haoqi Nina Zhao, Vincent Charron-Lamoureux, Yourae Shin, Daniel Petras, Yuhui Hong, Benjamin P Bowen, Trent R Northen, Pieter C Dorrestein, Mingxun Wang.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.06.23.734138)  
 
 * **MassBank: an open and FAIR mass spectral data resource** [2025]  
 Steffen Neumann, René Meier, Michael Wenk, Anjana Elapavalore, Takaaki Nishioka, Tobias Schulze, Michael Stravs, Hiroshi Tsugawa, Fumio Matsuda, Emma L Schymanski.   
