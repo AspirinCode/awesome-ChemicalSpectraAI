@@ -164,6 +164,10 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
+* **NMR-Challenge for LLMs: Evaluating Chemical Reasoning in Humans and AI** [2026]  
+Samiha Sharlin, Fariha Agbere, Kevin Ishimwe, Zuzana Osifová, Ondřej Socha, Martin Dračínský, and Tyler R. Josephson.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00481)  
+
 * **End-to-end molecular structure elucidation from multimodal NMR spectra images using vision transformers** [2026]  
 Chao Han,  Xiaolin Pan, Yingkai Zhang.  
 [Chem. Sci. (2026)](https://doi.org/10.1039/D6SC02352E) | [code](https://github.com/ChaoNyu/NMRViT) | [Zenodo](https://doi.org/10.5281/zenodo.19153901)  
