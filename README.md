@@ -164,6 +164,12 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
+
+
+* **Chemical Shift Prediction Beyond the Electronic Structure Limit** [2026]  
+Keir Adams, Corin C. Wagen, John Wolford, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15005989/v1)  
+
 * **NMR-Challenge for LLMs: Evaluating Chemical Reasoning in Humans and AI** [2026]  
 Samiha Sharlin, Fariha Agbere, Kevin Ishimwe, Zuzana Osifová, Ondřej Socha, Martin Dračínský, and Tyler R. Josephson.  
 [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00481)  
