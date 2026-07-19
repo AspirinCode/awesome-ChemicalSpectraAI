@@ -110,6 +110,9 @@ Sorrentino, Salvatore, Alessandro Gussoni, Francesco Calcagno, Gioele Pasotti, D
 
 
 
+* **Large-scale discovery and annotation of substructure patterns in mass spectrometry profiles** [2026]  
+Torres Ortega, L.R., Dietrich, J., Wandy, J. et al.   
+[Nat. Commun. (2026)](https://doi.org/10.1038/s41467-026-75038-0) | [code](https://github.com/vdhooftcompmet/MS2LDA)  
 
 * **Agentic AI for Structural Elucidation and Discovery of Drug Metabolites from Mass Spectrometry Data** [2026]  
 Xianghu Wang, Abubaker Patan, Haoqi Nina Zhao, Vincent Charron-Lamoureux, Yourae Shin, Daniel Petras, Yuhui Hong, Benjamin P Bowen, Trent R Northen, Pieter C Dorrestein, Mingxun Wang.  
