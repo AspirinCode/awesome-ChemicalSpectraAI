@@ -169,6 +169,12 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
+
+
+* **NMR-AI: An Open Platform for NMR-Enhanced Molecular Representations and Physicochemical Property Prediction** [2026]  
+Wojciech Pietruś, Arkadiusz Leniak, and Rafał Kurczab.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01026) | [code](https://github.com/Prospero1988/NMR-AI_part4)  
+
 * **Chemical Shift Prediction Beyond the Electronic Structure Limit** [2026]  
 Keir Adams, Corin C. Wagen, John Wolford, et al.  
 [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15005989/v1)  
