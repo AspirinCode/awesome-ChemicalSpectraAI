@@ -169,7 +169,9 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
-
+* **SPINDLE: Unlocking protein dynamics from single-field NMR relaxation data using a deep learning ensemble** [2026]  
+Olivia E Krise, Michael P Latham.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.07.31.742133) | [code](https://github.com/michaellatham77/SPINDLE)  
 
 * **NMR-AI: An Open Platform for NMR-Enhanced Molecular Representations and Physicochemical Property Prediction** [2026]  
 Wojciech Pietruś, Arkadiusz Leniak, and Rafał Kurczab.  
