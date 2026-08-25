@@ -122,6 +122,10 @@ Xianghu Wang, Abubaker Patan, Haoqi Nina Zhao, Vincent Charron-Lamoureux, Yourae
 Steffen Neumann, René Meier, Michael Wenk, Anjana Elapavalore, Takaaki Nishioka, Tobias Schulze, Michael Stravs, Hiroshi Tsugawa, Fumio Matsuda, Emma L Schymanski.   
 [Nucleic Acids Research (2025)](https://doi.org/10.1093/nar/gkaf1193) | [code](https://github.com/MassBank)  
 
+* **Atomic Diffusion Models for Small Molecule Structure Elucidation from NMR Spectra** [2025]  
+Ziyu Xiong, Yichi Zhang, Foyez Alauddin, Chu Xin Cheng, Joon Soo An, Mohammad R. Seyedsayamdost, Ellen D. Zhong.  
+[NeurIPS 2025(2025)](https://arxiv.org/abs/2512.03127) | [code](https://github.com/ml-struct-bio/chefnmr)  
+
 * **mineMS2: annotation of spectral libraries with exact fragmentation patterns** [2025]  
 Delabrière, A., Gianfrotta, C., Dechaumet, S. et al.   
 [J Cheminform 17, 111 (2025)](https://doi.org/10.1186/s13321-025-01051-y) | [code](https://github.com/odisce/mineMS2)  
