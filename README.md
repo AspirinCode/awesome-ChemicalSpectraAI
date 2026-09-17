@@ -51,7 +51,9 @@ Ilya Kuprov.
 
 
 
-
+* **Latent diffusion-based 3D molecular recovery from infrared spectra** [2026]  
+Wenjin Wu, Aleš Leonardis, Linjiang Chen, Jianbo Jiao.  
+[Digital Discovery (2026)](https://doi.org/10.1039/d6dd00463f) | [code](https://github.com/wenjin886/IR-GeoDiff)  
 
 * **Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy** [2026]  
 Nitik Bhatia, Ondrej Krejci, Patrick Rinke.  
