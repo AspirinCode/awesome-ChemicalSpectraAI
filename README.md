@@ -273,6 +273,9 @@ Han, Jongmin, Hyungu Kang, Seokho Kang, Youngchun Kwon, Dongseon Lee, and Youn-S
 
 
 
+* **EM3DFold: accurate de novo protein and nucleic acid model building for cryo-EM maps using language model-powered deep learning** [2026]  
+Tao Li, Hong Cao, Sheng-You Huang.  
+[bioRxiv(2026)](https://doi.org/10.64898/2026.09.16.752067) | [code](https://github.com/huang-laboratory/EM3DFold)  
 
 
 
