@@ -291,7 +291,9 @@ Han, Jongmin, Hyungu Kang, Seokho Kang, Youngchun Kwon, Dongseon Lee, and Youn-S
 Tao Li, Hong Cao, Sheng-You Huang.  
 [bioRxiv(2026)](https://doi.org/10.64898/2026.09.16.752067) | [code](https://github.com/huang-laboratory/EM3DFold)  
 
-
+* **StructAgent: Orchestrating Cryo-EM Model Building and Refinement with a Multi-Agent LLM System** [2026]  
+Xiaohu Guo.  
+[bioRxiv(2026)](https://doi.org/10.64898/2026.05.18.725842) | [code](https://github.com/bhgtiger/StructAgent)  
 
 
 
