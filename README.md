@@ -126,6 +126,10 @@ Sorrentino, Salvatore, Alessandro Gussoni, Francesco Calcagno, Gioele Pasotti, D
 
 
 
+* **Times are changing but order matters: transferable prediction of small-molecule liquid chromatography retention times** [2026]  
+Kretschmer, F., Harrieder, EM., Witting, M. et al.   
+[Nat. Commun. (2026)](https://doi.org/10.1038/s41592-026-03243-2) | [code](https://github.com/michaelwitting/RepoRT)  
+
 * **Large-scale discovery and annotation of substructure patterns in mass spectrometry profiles** [2026]  
 Torres Ortega, L.R., Dietrich, J., Wandy, J. et al.   
 [Nat. Commun. (2026)](https://doi.org/10.1038/s41467-026-75038-0) | [code](https://github.com/vdhooftcompmet/MS2LDA)  
