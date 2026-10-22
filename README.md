@@ -126,6 +126,12 @@ Sorrentino, Salvatore, Alessandro Gussoni, Francesco Calcagno, Gioele Pasotti, D
 
 
 
+
+
+* **MassNet: billion-scale AI-ready mass spectral corpus empowering scalable deep learning in proteomics** [2026]  
+A, J., Zhang, X., Zhang, X. et al.   
+[Nat Methods (2026)](https://doi.org/10.1038/s41592-026-03247-y) | [code](https://github.com/guomics-lab/MassNet-DDA)  
+
 * **Times are changing but order matters: transferable prediction of small-molecule liquid chromatography retention times** [2026]  
 Kretschmer, F., Harrieder, EM., Witting, M. et al.   
 [Nat. Commun. (2026)](https://doi.org/10.1038/s41592-026-03243-2) | [code](https://github.com/michaelwitting/RepoRT)  
