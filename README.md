@@ -197,6 +197,12 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
+
+
+* **a Bidirectional NMR Foundation Model: From Peak List to Structure and Back** [2026]  
+Hoque, A., & Glorius, F. PRISM.  
+[Angewandte Chemie(2026)](https://doi.org/10.1002/anie.7185622) | [code](https://github.com/alhqlearn/PRISM)  
+
 * **Learning millisecond protein dynamics from what is missing in NMR spectra** [2026]  
 Wayment-Steele, H.K., El Nesr, G., Hettiarachchi, R. et al.  
 [Nature (2026)](https://doi.org/10.1038/s41586-026-10989-4) | [code](https://github.com/WaymentSteeleLab/Dyna-1)  
