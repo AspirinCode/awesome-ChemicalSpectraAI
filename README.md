@@ -18,7 +18,7 @@
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [Reviews](#reviews) | [Datasets and SpectraPackage](#datasets-and-spectraPackage) |  |  |
-| [IR Spectra.AI](#ir-spectra.ai) |  | [Raman Spectra.AI](#raman-spectra.ai) |  |
+| [Spectral Learning](#spectral-Learning) | [IR Spectra.AI](#ir-spectra.ai) | [Raman Spectra.AI](#raman-spectra.ai) |  |
 |  | [Mass Spectra.AI](#mass-spectra.ai) |  |  |
 |  | [NMR Spectra.AI](#nmr-spectra.ai) |  | [cryo-EM.AI](#cryo-em.ai) |
 | [MultiSpectra.AI](#multispectra.ai) |  |  |  |
@@ -34,6 +34,7 @@
 
 
 ## Dataset and SpectraPackage
+
 
 ### Dataset
 
@@ -52,6 +53,17 @@ Alberts, Marvin, Oliver Schilter, Federico Zipoli, Nina Hartrampf, and Teodoro L
 * **Defeating the Matrix** [2019]  
 Ilya Kuprov.  
 [J. Magn. Reson. (2019)](https://doi.org/10.1016/j.jmr.2019.07.031) | [code](https://github.com/IlyaKuprov/Spinach)  
+
+
+
+
+
+
+
+
+
+## Spectral Learning
+
 
 
 
