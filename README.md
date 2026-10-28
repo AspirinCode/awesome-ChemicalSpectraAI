@@ -70,8 +70,16 @@ Ilya Kuprov.
 
 
 
+* **Physics-based molecular fingerprints from spectral graph theory provide efficient geometry-aware measures of chemical similarity** [2026]  
+Jacob W. Toney, Ayleen Y. Farnood, Samir Darouich, Heather J. Kulik.  
+[Chem. Sci. (2026)](https://doi.org/10.1039/d6sc06309h) | [code](https://github.com/hjkgrp/SpectralScore) | [Zenodo](https://doi.org/10.5281/zenodo.22924725)  
 
-### IR Spectra.AI
+
+
+
+
+
+## IR Spectra.AI
 
 
 
@@ -102,7 +110,7 @@ Koshelev, Daniil S.
 
 
 
-### Raman Spectra.AI
+## Raman Spectra.AI
 
 
 
@@ -129,7 +137,7 @@ Sorrentino, Salvatore, Alessandro Gussoni, Francesco Calcagno, Gioele Pasotti, D
 
 
 
-### Mass Spectra.AI
+## Mass Spectra.AI
 
 
 
@@ -202,7 +210,7 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
-### NMR Spectra.AI
+## NMR Spectra.AI
 
 
 
@@ -308,7 +316,7 @@ Han, Jongmin, Hyungu Kang, Seokho Kang, Youngchun Kwon, Dongseon Lee, and Youn-S
 
 
 
-### cryo-EM.AI
+## cryo-EM.AI
 
 
 
@@ -329,7 +337,7 @@ Xiaohu Guo.
 
 
 
-### MultiSpectra.AI
+## MultiSpectra.AI
 
 
 
