@@ -323,6 +323,11 @@ Han, Jongmin, Hyungu Kang, Seokho Kang, Youngchun Kwon, Dongseon Lee, and Youn-S
 
 
 
+
+* **obPicker: a meta-learning framework for robust identification of macromolecules in cryo-electron tomograms** [2026]  
+Liang, Y., Hosseini, R., Rahmani, H. et al.  
+[Nat Methods(2026)](https://doi.org/10.1038/s41592-026-03250-3) | [code](https://github.com/RobPicker/CryoET-RobPicker)  
+
 * **EM3DFold: accurate de novo protein and nucleic acid model building for cryo-EM maps using language model-powered deep learning** [2026]  
 Tao Li, Hong Cao, Sheng-You Huang.  
 [bioRxiv(2026)](https://doi.org/10.64898/2026.09.16.752067) | [code](https://github.com/huang-laboratory/EM3DFold)  
