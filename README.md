@@ -85,6 +85,12 @@ Jacob W. Toney, Ayleen Y. Farnood, Samir Darouich, Heather J. Kulik.
 
 
 
+
+
+* **Unconstrained learning of equivariant atomistic properties** [2026]  
+Joseph W. Abbott, Paolo Pegolo, Pol Febrer, Michelangelo Domina, Sandra Saade, Matthias Kellner, Filippo Bigi, Philip Loche, Michele Ceriotti.  
+  [arXiv:2610.31183(2026)](https://doi.org/10.48550/arXiv.2610.31183)  
+
 * **Latent diffusion-based 3D molecular recovery from infrared spectra** [2026]  
 Wenjin Wu, Aleš Leonardis, Linjiang Chen, Jianbo Jiao.  
 [Digital Discovery (2026)](https://doi.org/10.1039/d6dd00463f) | [code](https://github.com/wenjin886/IR-GeoDiff)  
@@ -118,7 +124,9 @@ Koshelev, Daniil S.
 
 
 
-
+* **Unconstrained learning of equivariant atomistic properties** [2026]  
+Joseph W. Abbott, Paolo Pegolo, Pol Febrer, Michelangelo Domina, Sandra Saade, Matthias Kellner, Filippo Bigi, Philip Loche, Michele Ceriotti.  
+  [arXiv:2610.31183(2026)](https://doi.org/10.48550/arXiv.2610.31183)  
 
 * **Graph Neural Network in Raman Spectroscopy to Leverage the Performance and Interpretability of the Classification** [2026]  
 Guo, Shuxia, Sandra Baaba Frempong, Markus Salbreiter, Annette Wagenhaus, Petra Rösch, Jürgen Popp, and Thomas Bocklitz.  
@@ -146,7 +154,9 @@ Sorrentino, Salvatore, Alessandro Gussoni, Francesco Calcagno, Gioele Pasotti, D
 
 
 
-
+* **Unconstrained learning of equivariant atomistic properties** [2026]  
+Joseph W. Abbott, Paolo Pegolo, Pol Febrer, Michelangelo Domina, Sandra Saade, Matthias Kellner, Filippo Bigi, Philip Loche, Michele Ceriotti.  
+  [arXiv:2610.31183(2026)](https://doi.org/10.48550/arXiv.2610.31183)  
 
 * **MassNet: billion-scale AI-ready mass spectral corpus empowering scalable deep learning in proteomics** [2026]  
 A, J., Zhang, X., Zhang, X. et al.   
@@ -217,7 +227,9 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
-
+* **Unconstrained learning of equivariant atomistic properties** [2026]  
+Joseph W. Abbott, Paolo Pegolo, Pol Febrer, Michelangelo Domina, Sandra Saade, Matthias Kellner, Filippo Bigi, Philip Loche, Michele Ceriotti.  
+  [arXiv:2610.31183(2026)](https://doi.org/10.48550/arXiv.2610.31183)  
 
 * **a Bidirectional NMR Foundation Model: From Peak List to Structure and Back** [2026]  
 Hoque, A., & Glorius, F. PRISM.  
