@@ -336,6 +336,11 @@ Han, Jongmin, Hyungu Kang, Seokho Kang, Youngchun Kwon, Dongseon Lee, and Youn-S
 
 
 
+
+* **DPI-score: a deep learning-based metric for assessing protein-protein interfaces in cryoEM derived assemblies** [2026]  
+Bhujel, N., Whyatt, N., Joseph, A.P. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-79090-8) | [code](https://gitlab.com/ccpem/dpi)  
+
 * **obPicker: a meta-learning framework for robust identification of macromolecules in cryo-electron tomograms** [2026]  
 Liang, Y., Hosseini, R., Rahmani, H. et al.  
 [Nat Methods(2026)](https://doi.org/10.1038/s41592-026-03250-3) | [code](https://github.com/RobPicker/CryoET-RobPicker)  
