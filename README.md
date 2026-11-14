@@ -227,6 +227,11 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
+
+* **Learning the limits of protein structure models with NMR chemical shifts** [2026]  
+Cizhang Zhao, Gina El Nesr, Yilin Chen, Hannah K Wayment-Steele.  
+[bioRxiv(2026)](https://doi.org/10.64898/2026.11.12.766294)  
+
 * **Unconstrained learning of equivariant atomistic properties** [2026]  
 Joseph W. Abbott, Paolo Pegolo, Pol Febrer, Michelangelo Domina, Sandra Saade, Matthias Kellner, Filippo Bigi, Philip Loche, Michele Ceriotti.  
   [arXiv:2610.31183(2026)](https://doi.org/10.48550/arXiv.2610.31183)  
