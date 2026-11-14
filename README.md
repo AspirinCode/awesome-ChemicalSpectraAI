@@ -226,7 +226,9 @@ Goldman, Samuel, Jiayi Xin, Joules Provenzano, and Connor W. Coley.
 
 
 
-
+* **Public Database Leakage Distorts Model Rankings in Real-Spectra NMR Structure Elucidation** [2026]  
+Zihan Zhang, Mengxi Chen, Xuezhou Zhao, Yutao Guo, Dan Wu.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c02552)  
 
 * **Learning the limits of protein structure models with NMR chemical shifts** [2026]  
 Cizhang Zhao, Gina El Nesr, Yilin Chen, Hannah K Wayment-Steele.  
